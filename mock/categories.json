@@ -1,0 +1,62 @@
+[
+  {
+    "id": "coffee",
+    "name": "Cà phê",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ddlb4x2q03ekwmrasqtk"
+  },
+  {
+    "id": "tea",
+    "name": "Trà",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/tni041zgzzeu6axer7zk"
+  },
+  {
+    "id": "hottea",
+    "name": "Trà nóng",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/yu3hiycvggn5upadjppf"
+  },
+  {
+    "id": "yaourt",
+    "name": "Yaourt",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/d5rd3oefianx8d8ewqrx"
+  },
+  {
+    "id": "juice",
+    "name": "Nước ép",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/mpttmr1lxktqjply79f1"
+  },
+  {
+    "id": "soda",
+    "name": "Soda",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ku99uecvtscxwwcklnt1"
+  },
+  {
+    "id": "cream",
+    "name": "Kem",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/hmxpj7gc8zg8j22riwia"
+  },
+  {
+    "id": "drinks",
+    "name": "Nước ngọt",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/noatsrc8iwhc7re77hzi"
+  },
+  {
+    "id": "process",
+    "name": "Đồ chế biến",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730099534/menu_tlc1l8.png"
+  },
+  {
+    "id": "snack",
+    "name": "Đồ ăn vặt",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730099211/snack_wwfgwe.png"
+  },
+  {
+    "id": "cigarette",
+    "name": "Thuốc lá",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730099870/smoking_fd25iz.png"
+  },
+  {
+    "id": "art",
+    "name": "Hội họa",
+    "icon": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730344475/color-palette_obxmay.png"
+  }
+]

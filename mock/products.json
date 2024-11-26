@@ -1,0 +1,740 @@
+[
+  {
+    "id": 1,
+    "name": "Cà phê phin đen",
+    "price": 17000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/rwvoaq4g6tqfi0sufvya",
+    "description": "Cà phê được pha bằng phin, có vị đậm đà, thường được uống nóng hoặc thêm đá, rất phổ biến trong văn hóa cà phê Việt Nam",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 2,
+    "name": "Cà phê phin sữa",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/qpk09xznkggsbpei9ate",
+    "description": "Cà phê phin truyền thống, kết hợp với sữa đặc, tạo nên một thức uống ngọt ngào, thơm ngon",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 3,
+    "name": "Cà phê đen máy",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/hju6ogdkpgmj0eah1coi",
+    "description": "Cà phê được pha bằng máy, luôn đảm bảo được hương vị đậm đà và thơm ngon",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {  
+    "id": 83,  
+    "name": "Cà phê sữa máy",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730348429/Thi%E1%BA%BFt_k%E1%BA%BF_ch%C6%B0a_c%C3%B3_t%C3%AAn_2_d1jyuu.png",  
+    "description": "Cà phê sữa máy thơm ngon, hòa quyện giữa cà phê đậm đà và sữa đặc ngọt ngào, mang đến cảm giác tỉnh táo cho bạn",  
+    "categoryId": ["coffee"],  
+    "variantId": ["typping"]  
+  },
+  {
+    "id": 4,
+    "name": "Bạc xỉu",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/xxtxvwkpir2q7eslrupj",
+    "description": "Một loại thức uống cà phê đặc trưng, kết hợp giữa cà phê, sữa đặc, mang lại vị ngọt mát",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 5,
+    "name": "Cà phê muối",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/zdziuqqwv3znpvbkx4uu",
+    "description": "Một loại cà phê độc đáo, nổi bật với sự kết hợp giữa vị đắng của cà phê và vị mặn của muối, tạo ra một hương vị mới lạ, làm nổi bật hương thơm và giảm bớt độ chua của cà phê",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 84,
+    "name": "Cà phê máy muối",
+    "price": 35000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/zdziuqqwv3znpvbkx4uu",
+    "description": "Một loại cà phê độc đáo, nổi bật với sự kết hợp giữa vị đắng của cà phê và vị mặn của muối, tạo ra một hương vị mới lạ, làm nổi bật hương thơm và giảm bớt độ chua của cà phê",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 6,
+    "name": "Milo sữa",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ivqemt7t7fljbpbmmyrm",
+    "description": "Thức uống Milo thơm ngon, kết hợp với sữa tươi, mang lại hương vị ngọt ngào, bổ dưỡng cho trẻ em và người lớn",
+    "categoryId": ["coffee"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 7,
+    "name": "Trà tắc",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/eu0np9bwjuh7o9zyzhbe",
+    "description": "Trà tắc chua chua ngọt ngọt, giải nhiệt tự nhiên, phù hợp cho mọi lứa tuổi",
+    "categoryId": ["tea"],
+    "variantId": []
+  },
+  {
+    "id": 8,
+    "name": "Trà chanh",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/dqzm4aq4aee48okmc5om",
+    "description": "Trà chanh thanh mát, vị chua nhẹ, giúp giải nhiệt trong những ngày nóng",
+    "categoryId": ["tea"],
+    "variantId": []
+  },
+  {
+    "id": 9,
+    "name": "Combo bữa sáng DAKAI Cafe",
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730432916/Combo_Breakfast_Food_1_wjnkbn.png",
+    "price": 60000,
+    "sale": {
+      "type": "fixed",
+      "amount": 5000
+    },
+    "description": "Combo bữa sáng gồm 1 Combo bánh ướt bánh hỏi + 2 trứng và 1 ly cafe muối",
+    "categoryId": [],
+    "variantId": []
+  },
+  {
+    "id": 10,
+    "name": "Ngày hội tô tượng",
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730444748/Combo_Breakfast_Food_2_xivckl.png",
+    "price": 50000,
+    "sale": {
+      "type": "fixed",
+      "amount": 5000
+    },
+    "description": "Chương trình giảm giá cho các bé tô tượng tại quán vào thứ 7 & chủ nhật hàng tuần",
+    "categoryId": [],
+    "variantId": []
+  },
+  {
+    "id": 12,
+    "name": "Trà đào",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/vrfrhlr0bpuudgd1vsfs",
+    "description": "Trà đào ngọt dịu, hương thơm nhẹ nhàng, phù hợp cho mọi dịp thư giãn",
+    "categoryId": ["tea"],
+    "variantId": []
+  },
+  {
+    "id": 13,
+    "name": "Đá me",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/uonq7bjl8vrivr8im6yg",
+    "description": "Đá me chua ngọt, mát lạnh, là món ăn vặt được nhiều người yêu thích",
+    "categoryId": ["tea"],
+    "variantId": []
+  },
+  {
+    "id": 14,
+    "name": "Trà lipton cam",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/muhqwo337gmn1c9gvcno",
+    "description": "Trà Liptop hương cam và xí muội, độc đáo, vị mới lạ cho ai thích khám phá",
+    "categoryId": ["tea"],
+    "variantId": []
+  },
+  {
+    "id": 15,
+    "name": "Trà gừng",
+    "price": 17000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/priex4nysh4sx2ebwg0e",
+    "description": "Trà gừng ấm áp, thơm cay, giúp làm ấm cơ thể và tốt cho sức khỏe",
+    "categoryId": ["hottea"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 16,
+    "name": "Trà dưỡng sinh",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/mgrufkqtaafnutbgjpkq",
+    "description": "Trà dưỡng sinh, sự kết hợp thảo mộc giúp thư giãn và tăng cường sức khỏe",
+    "categoryId": ["hottea"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 17,
+    "name": "Trà thanh nhiệt",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/vn7fhnsnxvycxpvenqib",
+    "description": "Trà thanh nhiệt giúp giải độc, làm mát cơ thể, thích hợp cho những ngày nóng",
+    "categoryId": ["hottea"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 18,
+    "name": "Trà cam cúc 6 vị",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/szfkslgyxijr6alismct",
+    "description": "Trà cam cúc độc đáo, sự kết hợp của 6 hương vị thơm ngon, thư giãn tinh thần",
+    "categoryId": ["hottea"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 19,
+    "name": "Yaourt dâu",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/tgqt8qzwpcpcnmivpphi",
+    "description": "Yaourt dâu tươi mát, vị ngọt nhẹ, phù hợp cho mọi lứa tuổi",
+    "categoryId": ["yaourt"],
+    "variantId": []
+  },
+  {
+    "id": 20,
+    "name": "Yaourt chanh dây",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/jr7a6qjzzq9p8ahgrt5d",
+    "description": "Yaourt chanh dây chua ngọt, giúp tiêu hóa tốt, là món tráng miệng hoàn hảo",
+    "categoryId": ["yaourt"],
+    "variantId": []
+  },
+  {
+    "id": 21,
+    "name": "Yaourt đào",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/waopnvd9eky9gvogvaw1",
+    "description": "Yaourt đào ngọt thanh, thơm ngon, bổ sung canxi cho ngày dài",
+    "categoryId": ["yaourt"],
+    "variantId": []
+  },
+  {
+    "id": 22,
+    "name": "Yaourt việt quất",
+    "price": 27000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/eeghlqndcbk5xxj8p6rw",
+    "description": "Yaourt việt quất thơm ngon, giàu dinh dưỡng, giúp bổ sung năng lượng",
+    "categoryId": ["yaourt"],
+    "variantId": []
+  },
+  {
+    "id": 23,
+    "name": "Yaourt phúc bồn tử",
+    "price": 27000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/udcp78ccxi7tzmn8ujcs",
+    "description": "Yaourt phúc bồn tử, chua nhẹ và bổ dưỡng, mang đến hương vị mới mẻ",
+    "categoryId": ["yaourt"],
+    "variantId": []
+  },
+  {
+    "id": 24,
+    "name": "Dừa tươi",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/bektkzxyf9gelzv2tmru",
+    "description": "Nước dừa tươi mát, là thức uống hoàn hảo giúp bổ sung năng lượng",
+    "categoryId": ["juice"],
+    "variantId": []
+  },
+  {
+    "id": 25,
+    "name": "Cam vắt",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/afeobiyytrreeuspmool",
+    "description": "Nước cam tươi, giải khát tự nhiên, cung cấp vitamin C tốt cho sức khỏe",
+    "categoryId": ["juice"],
+    "variantId": []
+  },
+  {
+    "id": 26,
+    "name": "Nước ép cà rốt",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/c5lvpmsqvvffzlvotbpc",
+    "description": "Nước ép cà rốt tự nhiên, giữ nguyên vitamin, tốt cho làn da",
+    "categoryId": ["juice"],
+    "variantId": []
+  },
+  {
+    "id": 27,
+    "name": "Nước ép cam cà rốt",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/bhhqsgfblqezlkkhvww1",
+    "description": "Cam và cà rốt kết hợp, giải khát, cung cấp vitamin và khoáng chất",
+    "categoryId": ["juice"],
+    "variantId": []
+  },
+  {
+    "id": 28,
+    "name": "Nước ép dứa",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/prghsih0saax1yxrmd1b",
+    "description": "Nước ép dứa tươi, vị chua ngọt tự nhiên, tốt cho sức khỏe",
+    "categoryId": ["juice"],
+    "variantId": []
+  },
+  {
+    "id": 29,
+    "name": "Soda dâu",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/pdxrlia1ffkaigjuzxlu",
+    "description": "Hương vị dâu ngọt ngào, kết hợp soda sủi bọt, tạo cảm giác tươi mới",
+    "categoryId": ["soda"],
+    "variantId": []
+  },
+  {
+    "id": 30,
+    "name": "Soda việt quất",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/t79z6ko7iq1fbwevk53z",
+    "description": "Việt quất thơm ngọt và soda sảng khoái, mang đến hương vị lạ miệng",
+    "categoryId": ["soda"],
+    "variantId": []
+  },
+  {
+    "id": 31,
+    "name": "Soda phúc bồn tử",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/kjr3dkuagw50rgpv6kko",
+    "description": "Phúc bồn tử kết hợp soda, thức uống chua ngọt, giải nhiệt tức thì",
+    "categoryId": ["soda"],
+    "variantId": []
+  },
+  {
+    "id": 32,
+    "name": "Soda bạc hà",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ouquuelec4hlf64goi2e",
+    "description": "Vị bạc hà tươi mát, soda sảng khoái, thức uống giải nhiệt hoàn hảo",
+    "categoryId": ["soda"],
+    "variantId": []
+  },
+  {
+    "id": 33,
+    "name": "Kem dâu",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/bfw4rwacgx6eos82gohl",
+    "description": "Kem dâu ngọt ngào, 2 viên mát lạnh làm dịu cái nóng tức thì",
+    "categoryId": ["cream"],
+    "variantId": ["typping-cream"]
+  },
+  {
+    "id": 34,
+    "name": "Kem sầu riêng",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/qpnwcqsxcork00zmysyx",
+    "description": "Kem sầu riêng thơm béo, dành cho ai yêu thích hương vị đặc trưng",
+    "categoryId": ["cream"],
+    "variantId": ["typping-cream"]
+  },
+  {
+    "id": 35,
+    "name": "Kem socola",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/zicxgppstly34vo5wpnx",
+    "description": "Kem socola đậm đà, thơm ngon, lý tưởng cho những ai thích vị ngọt",
+    "categoryId": ["cream"],
+    "variantId": ["typping-cream"]
+  },
+  {
+    "id": 36,
+    "name": "Kem vani",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/z8usx4y0sknsrtllhok7",
+    "description": "Kem vani mát lạnh, hương vị truyền thống, nhẹ nhàng và dễ ăn",
+    "categoryId": ["cream"],
+    "variantId": ["typping-cream"]
+  },
+  {
+    "id": 37,
+    "name": "Pepsi",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/nqfnvzerb7dmspofw6bl",
+    "description": "Thức uống có gas mát lạnh, vị ngọt dịu, phù hợp cho những bữa ăn năng động",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 38,
+    "name": "Cocacola",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/bm1d4pzirefz27ok9fxh",
+    "description": "Vị ngọt mát lạnh của CocaCola, thức uống giúp tăng thêm năng lượng tức thì",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 39,
+    "name": "Sting",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/tbpm7xcjl4jlota2ct3e",
+    "description": "Nước uống tăng lực, vị ngọt, giúp tỉnh táo và sảng khoái cho ngày dài",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 40,
+    "name": "7up",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ftabsjfgsgeqb9ktegki",
+    "description": "7Up vị chanh thanh mát, ít ngọt, là thức uống lý tưởng để giải khát",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 41,
+    "name": "Trà ô long",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/ac2gqpy79ufxkyz0mo75",
+    "description": "Trà ô long thơm dịu, hậu vị ngọt thanh, mang đến cảm giác thư giãn và tinh tế",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 42,
+    "name": "Bò húc",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/xpvc8u64rgk3oi1nnftd",
+    "description": "Thức uống tăng lực, giúp bạn tỉnh táo, tiếp thêm năng lượng cho ngày dài",
+    "categoryId": ["drinks"],
+    "variantId": ["typping"]
+  },
+  {
+    "id": 43,
+    "name": "Nước suối",
+    "price": 12000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/rg6grkeoawapuuk8snlw",
+    "description": "Nước suối tinh khiết, mát lành, giúp giải khát tự nhiên và bổ sung năng lượng cho cơ thể",
+    "categoryId": ["drinks"],
+    "variantId": ["water"]
+  },
+
+
+
+  {
+    "id": 44,
+    "name": "Bánh Bento",
+    "price": 10000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347670/Thi%E1%BA%BFt_k%E1%BA%BF_ch%C6%B0a_c%C3%B3_t%C3%AAn_itmobg.png",
+    "description": "Món bánh giòn tan, hương vị đậm đà, là lựa chọn hoàn hảo cho bữa ăn nhẹ",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 45,
+    "name": "Bánh que Mix",
+    "price": 15000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347451/z5984855236895_2d6c80dda59c0bfd357a837120dbdbfe_nyg3ds.jpg",
+    "description": "Sự kết hợp hoàn hảo từ các loại bánh que, giòn tan, thú vị khi nhâm nhi",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 46,
+    "name": "Bánh Tráng",
+    "price": 15000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347738/Thi%E1%BA%BFt_k%E1%BA%BF_ch%C6%B0a_c%C3%B3_t%C3%AAn_1_f9pjyf.png",
+    "description": "Bánh tráng truyền thống, ăn nhẹ với chút vị mặn, bùi bùi hấp dẫn",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 47,
+    "name": "Cơm cháy",
+    "price": 35000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347452/z5984855261569_906edbf39f027ba79ce92f94f91f5736_sgvjta.jpg",
+    "description": "Món ăn giòn tan, thơm mùi gạo, thích hợp cho những ai thích ăn nhẹ",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 48,
+    "name": "Khô bò",
+    "price": 15000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347453/z5984855225636_ac3edae50ad15bfecf2ecd86f3618304_you2ha.jpg",
+    "description": "Thịt bò khô đậm đà, hương vị mặn ngọt, là món nhấm nháp lý tưởng",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 49,
+    "name": "Khô gà",
+    "price": 15000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347454/z5984855236580_393a107a332ef8adbb55b678e64b53a1_y2tfri.jpg",
+    "description": "Gà khô xé sợi, thơm ngon và vừa miệng, lý tưởng cho bữa ăn nhẹ",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 50,
+    "name": "Singum",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347451/z5984855250282_3307ff42fb90abe570e41f3baa992632_puchz5.jpg",
+    "description": "Kẹo cao su thơm mát, giúp bạn giữ hơi thở luôn tươi mới suốt ngày",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+  {
+    "id": 51,
+    "name": "Snack - Trái cây",
+    "price": 10000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730347451/z5984855249334_2cd2e9f33f018cc0994f965d5b0f7da3_g77ziw.jpg",
+    "description": "Snack trái cây sấy khô, giòn ngon, giữ nguyên vị ngọt tự nhiên",
+    "categoryId": ["snack"],
+    "variantId": []
+  },
+
+
+
+  {
+    "id": 52,
+    "name": "Ba số bạc",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346724/8_bz0g8z.png",
+    "description": "Thuốc lá ba số, sản phẩm quen thuộc, dành cho những ai yêu thích",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+  {
+    "id": 53,
+    "name": "Ba số thường (555)",
+    "price": 40000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346641/7_uq3fdm.png",
+    "description": "Thuốc lá 555, hương vị truyền thống, thích hợp cho phong cách cổ điển",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+  {
+    "id": 54,
+    "name": "Thuốc lá Jet",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346641/3_fdeini.png",
+    "description": "Thuốc lá Jet đậm vị, sản phẩm quen thuộc với người dùng Việt Nam",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+  {
+    "id": 55,
+    "name": "Mèo bạc",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346642/4_ybtbbo.png",
+    "description": "Thuốc lá mèo bạc, hương vị nhẹ nhàng, phù hợp cho những ai thích sự thanh thoát",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+  {
+    "id": 56,
+    "name": "Mèo đỏ",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346641/6_ytllmx.png",
+    "description": "Thuốc lá mèo đỏ, hương vị đậm đà, dành cho những ai yêu thích nồng nàn",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+  {
+    "id": 57,
+    "name": "Sài gòn bạc",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346641/5_a8af06.png",
+    "description": "Thuốc lá Sài Gòn bạc, hương vị truyền thống, phổ biến trong giới trẻ",
+    "categoryId": ["cigarette"],
+    "variantId": []
+  },
+
+
+
+  {
+    "id": 60,
+    "name": "Mỳ tôm",
+    "price": 15000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/13_apyqs4.png",
+    "description": "Mỳ tôm truyền thống, hương vị đậm đà, dễ chế biến và thích hợp cho bữa ăn nhanh",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 61,
+    "name": "Mỳ tôm trứng( 2 gói mỳ )",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424495/16_pbggg4.png",
+    "description": "Combo hấp dẫn với 2 gói mỳ tôm và trứng, ngon miệng cho bữa ăn đầy năng lượng",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 62,
+    "name": "Mỳ tôm trứng( 1 gói mỳ )",
+    "price": 22000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/17_iugzwu.png",
+    "description": "Mỳ tôm kết hợp trứng, dễ làm và mang đến bữa ăn thơm ngon, bổ dưỡng",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 63,
+    "name": "Mỳ tôm + 2 trứng",
+    "price": 28000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/14_nrp9of.png",
+    "description": "Hòa quyện giữa mỳ tôm và 2 quả trứng, cung cấp đầy đủ dinh dưỡng cho cả ngày",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 64,
+    "name": "Mỳ tôm chả",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/15_tpne0f.png",
+    "description": " Mỳ tôm xào với chả thơm ngon, sự kết hợp hoàn hảo cho những tín đồ ẩm thực",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 65,
+    "name": "Mỳ tôm chả( 2 gói mỳ )",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424495/22_lqxn6y.png",
+    "description": "Combo đầy đặn với 2 gói mỳ và chả, mang đến hương vị cuốn hút cho mỗi bữa ăn",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 66,
+    "name": "Mỳ tôm chả + 2 trứng",
+    "price": 35000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424495/21_bmtjlx.png",
+    "description": "Mỳ tôm chả đi kèm 2 trứng, món ăn béo ngậy và giàu protein cho mọi bữa ăn",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 67,
+    "name": "Mỳ tôm chả + trứng",
+    "price": 30000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/18_va4dzu.png",
+    "description": "Sự kết hợp giữa mỳ tôm và chả, thêm trứng tạo nên hương vị đậm đà khó quên",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 68,
+    "name": "Mỳ tôm chả + trứng( 2 gói mỳ )",
+    "price": 35000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424494/19_fiewwy.png",
+    "description": "Mỳ tôm chả và trứng, đôi bày đầy đủ cho bữa ăn nào cũng thỏa mãn",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 69,
+    "name": "Mỳ tôm rau",
+    "price": 18000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730424495/20_ovoaa6.png",
+    "description": "Mỳ tôm nhẹ nhàng kết hợp rau xanh, bổ sung vitamin cho bữa ăn thanh đạm, ngon miệng",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 70,
+    "name": "Mỳ ly",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425123/25_j5whr0.png",
+    "description": "Mỳ ly thơm ngon, dễ ăn, là lựa chọn hoàn hảo cho những ai muốn món ăn nhanh gọn",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 71,
+    "name": "Mỳ ly trứng",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425122/24_wbukba.png",
+    "description": "Mỳ ly đi kèm trứng, mang đến hương vị béo ngậy và năng lượng cho ngày dài",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 72,
+    "name": "Mỳ ly chả",
+    "price": 25000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425122/26_lrzezp.png",
+    "description": "Mỳ ly kết hợp chả cho hương vị đặc sắc, cung cấp protein cùng sự thơm ngon",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {
+    "id": 73,
+    "name": "Mỳ ly chả trứng",
+    "price": 20000,
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425122/23_jjm1jv.png",
+    "description": "Mỳ ly chả và trứng, sự phối hợp tuyệt vời tạo nên món ăn ngon miệng và bổ dưỡng",
+    "categoryId": ["process"],
+    "variantId": ["topping"]
+  },
+  {  
+    "id": 74,  
+    "name": "Bánh hỏi",  
+    "price": 25000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425533/27_dhpnjd.png",  
+    "description": "Bánh hỏi mềm mại, món ăn truyền thống Việt Nam, dễ ăn và luôn thu hút thực khách",  
+    "categoryId": ["process"],  
+    "variantId": ["topping"]  
+  },  
+  {  
+    "id": 75,  
+    "name": "Bánh hỏi chả trứng",  
+    "price": 30000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425533/29_mg4yaj.png",  
+    "description": "Bánh hỏi tươi ngon kết hợp với chả và trứng, mang đến trải nghiệm ẩm thực thú vị",  
+    "categoryId": ["process"],  
+    "variantId": ["topping"]  
+  },  
+  {  
+    "id": 76,  
+    "name": "Bánh ướt",  
+    "price": 25000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425534/31_eznnh3.png",  
+    "description": "Bánh ướt hấp dẫn, mịn màng, thích hợp để thưởng thức cùng nước chấm hay đi kèm món ăn",  
+    "categoryId": ["process"],  
+    "variantId": ["topping"]  
+  },  
+  {  
+    "id": 77,  
+    "name": "Bánh ướt chả trứng",  
+    "price": 30000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425534/30_atzjta.png",  
+    "description": "Bánh ướt kèm chả và trứng, tạo nên món ăn hấp dẫn, thơm ngon và bổ dưỡng",  
+    "categoryId": ["process"],  
+    "variantId": ["topping"]  
+  },  
+  {  
+    "id": 78,  
+    "name": "Combo bánh ướt bánh hỏi + 2 trứng",  
+    "price": 30000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730425534/32_qghmut.png",  
+    "description": "Bánh hỏi và bánh ướt kết hợp, có vị ngon lạ và khá đầy đặn cho bữa ăn",  
+    "categoryId": ["process"],  
+    "variantId": ["topping"]  
+  },  
+  {  
+    "id": 79,  
+    "name": "Tô tượng",  
+    "price": 50000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/v1730346983/9_qptsac.png",  
+    "description": "Tô tượng độc đáo, món ăn nghệ thuật, bổ sung thêm laze đến trải nghiệm ẩm thực",  
+    "categoryId": ["art"],  
+    "variantId": []  
+  },  
+  {  
+    "id": 80,  
+    "name": "Trà chanh mật ong",  
+    "price": 25000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/eu0np9bwjuh7o9zyzhbe",  
+    "description": "Trà tắc thơm ngon, vị chua ngọt tự nhiên, là thức uống lý tưởng giúp giải nhiệt",  
+    "categoryId": ["tea"],  
+    "variantId": []  
+  },  
+  {  
+    "id": 81,  
+    "name": "Trà đào cam sả",  
+    "price": 30000,  
+    "image": "https://res.cloudinary.com/dqcrcdufy/image/upload/f_auto,q_auto/v1/DAKAI%20Cafe/dqzm4aq4aee48okmc5om",  
+    "description": "Trà đào mát lạnh, hòa quyện với hương vị cam sả, hoàn hảo cho những ngày hè oi ả",  
+    "categoryId": ["tea"],  
+    "variantId": []  
+  }
+
+]
